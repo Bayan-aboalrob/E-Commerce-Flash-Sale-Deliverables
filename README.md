@@ -143,7 +143,7 @@ Characteristics:
 ## 🟢 6.3 Asynchronous Architecture (Events)
 Flow:
 
-**Reservation → RabbitMQ → Order → Payment → Inventory**
+**Login →Reservation → RabbitMQ → Order → Payment →RabbitMq →Order ,Inventory**
 
 Characteristics:
 - Non-blocking  
@@ -182,5 +182,3 @@ Characteristics:
 | SQL Server | 1433 |
 
 ---
-
-This README is complete and aligned with your architecture.  
