@@ -8,6 +8,7 @@ Each microservice is implemented in its own standalone repository:
 - **Order Service:** https://github.com/Bayan-aboalrob/OrderService
 - **Payment Service:** https://github.com/Bayan-aboalrob/PaymentService
 - **Inventory Service:** https://github.com/duaa-braik/InventoryManagement
+- **Database Design Repo** https://github.com/duaa-braik/FlashSaleDB/tree/DatabaseDesign
 - **Load Tests:** https://github.com/duaa-braik/FlashSale.LoadTest
 - **Architecture and Sequence Diagrams** https://drive.google.com/drive/folders/1-Yw2ympF5NFUxOTlfOth1yZaZfjEOJiK
 
