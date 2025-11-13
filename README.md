@@ -53,8 +53,8 @@ The architecture was designed to compare two real-world approaches: **Synchronou
 ---
 
 # 3. 🛠 Setup Instructions (No Docker for Microservices)
-You **do not** run the services via Docker.  
-Only monitoring & message broker tools use Docker.
+we **do not** run the services via Docker.  
+We onlyuse  monitoring & message broker tools via Docker.
 
 ### 3.1 Run supporting services via Docker  
 ```bash
