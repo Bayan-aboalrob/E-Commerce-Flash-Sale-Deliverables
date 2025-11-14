@@ -35,7 +35,7 @@ The architecture was designed to compare two real-world approaches: **Synchronou
 ### **Backend**
 - .NET 8 — REST APIs  
 - Clean Architecture  
-- SQL Server — Separate database for each microservice (DB-per-service pattern)  
+- SQL Server 
 
 ### **Messaging**
 - RabbitMQ — Event-driven communication  
