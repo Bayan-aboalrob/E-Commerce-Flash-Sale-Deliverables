@@ -11,6 +11,7 @@ Each microservice is implemented in its own standalone repository:
 - **Database Design Repo** https://github.com/duaa-braik/FlashSaleDB/tree/DatabaseDesign
 - **Load Tests:** https://github.com/duaa-braik/FlashSale.LoadTest
 - **Architecture and Sequence Diagrams** https://drive.google.com/drive/folders/1-Yw2ympF5NFUxOTlfOth1yZaZfjEOJiK
+- **Video Recording**: https://youtu.be/kxURbQGXa1s
 
 🟦 **Nginx Configuration:** Included inside the **InventoryManagement** repository.
 
